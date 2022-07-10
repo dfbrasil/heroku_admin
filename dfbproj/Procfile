@@ -1,0 +1,1 @@
+web: gunicorn dfbproj.wsgi --log-file -
